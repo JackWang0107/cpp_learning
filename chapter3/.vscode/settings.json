@@ -1,0 +1,7 @@
+{
+	"python.pythonPath": "/home/jack/anaconda3/bin/python",
+	"files.associations": {
+		"iostream": "cpp",
+		"ostream": "cpp"
+	}
+}
